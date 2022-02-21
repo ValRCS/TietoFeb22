@@ -1,3 +1,5 @@
+import datetime
+
 print("Just a simple script")
 print("Hello Python!")
 print('In Python single quotes work just like double quotes as long as they match')
@@ -25,7 +27,15 @@ print("Valdis" + " Saulespurens")
 my_full_name = "Valdis" + " Saulespurens"
 print(my_full_name)
 
-
+# print(datetime.datetime.now())
+# print(datetime.datetime.now().)
+print(1.03**10)  # 1.03 to the 10th power
+print(1.5**2)
+print(4**0.5)
+print(5**-1) # 0.2
+print(1/5)
+print(5**-1) # 0.2
+print(5**-10) # so 5 to the negative 10th power
 
 
 
